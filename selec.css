@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-transform: uppercase;
+    margin-top: 15%;
+    border-color: transparent;
+    color: rgba(241, 237, 237, 0.74);
+    font-family: monospace;
+    margin-bottom: 30%;
+    border-radius: 20px;
+    background-color: rgba(230, 220, 220, 0);
+    box-shadow: 2px 2px 3px 1px rgb(224, 222, 222);
+}
+body{
+   background-image: url(IMG-20241126-WA0001.jpg);
+}
+div{
+    text-align: center;
+}
+input{
+    font-size:  37px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px white;
+    text-transform: uppercase;
+    margin-top: 20%;
+    background-color: transparent;
+    color: rgba(255, 255, 255, 0.637);
+}
